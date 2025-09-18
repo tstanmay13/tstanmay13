@@ -5,9 +5,6 @@ I work at Fern! Check us out here https://buildwithfern.com/
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=tstanmay13&theme=onedark)
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tstanmay13&show_icons=true&theme=radical)
-
 ## 💻 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tstanmay13&layout=compact&theme=radical)
 

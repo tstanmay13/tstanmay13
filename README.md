@@ -3,8 +3,7 @@
 I work at Fern! Check us out here https://buildwithfern.com/
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=tstanmay13&theme=onedark)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ## 💻 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tstanmay13&layout=compact&theme=radical)
 

@@ -4,9 +4,7 @@ Software engineer in New York at Standard Template Labs!
 
 ## 🌎 Personal Website
 
-I’m building **[tanmay-singh.com](https://tanmay-singh.com)** as a more personal corner of the internet.
-
-It’s where I experiment with more personal and visual projects, including an explorable pixel-art map of the places I’ve lived and traveled.
+Look at  **[tanmay-singh.com](https://tanmay-singh.com)** to learn more about me
 
 ## 🐍 Contributions
 

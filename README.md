@@ -4,7 +4,7 @@ Software engineer in New York at Standard Template Labs!
 
 ## 🌎 Personal Website
 
-Look at  **[tanmay-singh.com](https://tanmay-singh.com)** to learn more about me
+Check out **[tanmay-singh.com](https://tanmay-singh.com)** to learn more about me.
 
 ## 🐍 Contributions
 
